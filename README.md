@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salim Hassan
 ====================================================================================================================================
 
-Full Stack developer
+Full Stack Developer
 --------------------
 
-I'm a passionate Full Stack Application Developer specializing in DevOps environments. With a strong background in designing, developing, and deploying applications.
+👨‍💻 Junior Full Stack Developer | Database & Application Design | Backend & Frontend Development | DevOps Practices |  Deploy  Solutions | Let's grow and code together! 💻✨ #JuniorDeveloper #FullStack #DevOps
 
 *   🌍  I'm based in Lille
 *   ✉️  You can contact me at [salim.hassan59000@gmail.com](mailto:salim.hassan59000@gmail.com)
