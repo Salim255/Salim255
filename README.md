@@ -4,6 +4,12 @@
 
 I'm a passionate Full Stack Application Developer specializing in DevOps environments. With a strong background in designing, developing, and deploying applications
 
+## Skills and Experiences
+* 🅰️ Angular
+* 📱 Ionic
+* ⚛️ React
+* 📱 React Native
+
 Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
