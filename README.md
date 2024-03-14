@@ -49,4 +49,74 @@ Full Stack Developer
 <a href="https://github.com/Salim255" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
+gitfiti noun : Carefully crafted graffiti in a github commit history calendar.
 
+An example of gitfiti in the wild:
+screenshot of gitfiti
+
+gitfiti.py is a tool to decorate your github account's commit history calendar by (blatantly) abusing git's ability to accept commits in the past.
+
+How? gitfiti.py generates a script (powershell or bash) that makes commits with the GIT_AUTHOR_DATE and GIT_COMMITTER_DATE environment variables set for each targeted pixel.
+
+Since this is likely to clobber repo's history, it is highly recommend that you create a new github repo when using gitfiti. Also, the generated script assumes you are using public-key authentication with git.
+
+Pixel Art
+pixel art examples
+Included "art" from left to right: kitty, oneup, oneup2, hackerschool, octocat, octocat2
+
+Usage
+Create a new github repo to store your handiwork.
+Run gitfiti.py and follow the prompts for username, art selection, offset, and repo name.
+Run the generated gitfiti.sh or gitfiti.ps1 from your home directory (or any non-git tracked dir) and watch it go to work.
+Wait... Seriously, you'll probably need to wait a day or two for the gitfiti to show in your commit graph.
+User Templates
+The file format for personal templates is the following:
+
+Each template starts off with a ":" and then a name (eg. ":foo")
+Each line after that is part of a json-recognizable array.
+The array contain values 0-4, 0 being blank and 4 being dark green.
+To add multiple templates, just add another name tag as described in 1.
+For example:
+
+:center-blank
+[[1,1,1,1,1,1,1],
+[1,1,1,1,1,1,1],
+[1,1,1,1,1,1,1],
+[1,1,1,0,1,1,1],
+[1,1,1,1,1,1,1],
+[1,1,1,1,1,1,1],
+[1,1,1,1,1,1,1]]
+This would output a 7 x 7 light green square with a single blank center square.
+
+Once you have a file with templates, enter its name when prompted and the templates will be added to the list of options.
+
+Removal
+Fortunately if you regret your gitfiti in the morning, removing it is fairly easy: delete the repo you created for your gitfiti (and wait).
+
+License
+gitfiti is released under The MIT license (MIT)
+
+Todo
+Remove 'requests' dependency thanks empathetic-alligator
+Web interface See several web-based things below
+Load "art" from a file thanks empathetic-alligator
+Load commit content from a file
+Text/alphabet option
+powershell support! thanks axzn
+...
+Profit?
+Notable derivatives or mentions
+Vincent Van Git Vincent, which offers a very slick web ui to generate a gitfiti script
+github-calendar-customerizer from ZachSaucier, another very nice web GUI for generating gitfiti templates
+git-art from jamesjarvis, a work-alike web based editor GUI that generates the script too
+Pikesley's Pokrovsky, which offers Github History Vandalism as a Service!
+PSVandalism Wrapper around Pokrovsky, which makes possible vandalising Github History from Powershell
+github-board commits gitfiti from easy templates
+ghdecoy fills the contribution graph with random data (sneaky!)
+Gitfiti Painter visual drawing tool for artists to easily create templates
+git-draw a Chrome extension which will allow you to freely draw on your commit map(!)
+github-jack a pure bash version with space invaders and shining creepypasta
+github-graffiti a GUI editor with a bash script to allow custom designs on your commit map
+Paint GitHub is the most convenient way to paint your GitHub contribution graph!
+contribution-pixel-messages generates a date plan from an editable GUI
+Seen something else? Submit a pull request or open an issue!
