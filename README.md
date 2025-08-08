@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 
-I'm a Software Engineer with a passion for solving real-world problems through code. My journey started in Darfur, where I taught myself mathematics in the forest — and it led me across continents to study Computer Science and build software in France.
+I'm a Software Engineer with a passion for solving real-world problems through code.
 
 ## 💼 What I Do
 
@@ -14,7 +14,7 @@ I'm a Software Engineer with a passion for solving real-world problems through c
 
 ## 📢 Let's Connect
 
-- 💼 [LinkedIn][(https://www.linkedin.com/in/YOUR-USERNAME)](https://www.linkedin.com/in/slim-hassan/)
+- 💼 [LinkedIn][(https://www.linkedin.com/in/slim-hassan/)]
 - 🌐 [Portfolio Website](https://salimhassan.com)
 - 📫 Email: salim.hassan.dev@example.com
 
