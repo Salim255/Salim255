@@ -11,16 +11,12 @@ I'm a Software Engineer with a passion for solving real-world problems through c
 - 🧠 **Backend Engineering**: Python, Node.js, Express
 - 📊 **Data & Logic**: SQL, algorithms, mathematical modeling
 
-## 🌍 My Mission
-
-To use technology to empower communities, especially those affected by conflict and inequality. I believe in building tools that make a difference.
-
 
 ## 📢 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-USERNAME)
-- 🌐 [Portfolio Website](https://YOUR-PORTFOLIO.com) *(if you have one)*
-- 📫 Email: your.email@example.com
+- 💼 [LinkedIn][(https://www.linkedin.com/in/YOUR-USERNAME)](https://www.linkedin.com/in/slim-hassan/)
+- 🌐 [Portfolio Website](https://salimhassan.com)
+- 📫 Email: salim.hassan.dev@example.com
 
 ---
 
