@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salim Hassan
 ====================================================================================================================================
 
-# 👋 Hi, I'm Salim
 
 I'm a Software Engineer with a passion for solving real-world problems through code. My journey started in Darfur, where I taught myself mathematics in the forest — and it led me across continents to study Computer Science and build software in France.
 
@@ -16,18 +15,6 @@ I'm a Software Engineer with a passion for solving real-world problems through c
 
 To use technology to empower communities, especially those affected by conflict and inequality. I believe in building tools that make a difference.
 
-## 📚 Currently Learning
-
-- Advanced system design and architecture
-- Cloud platforms (AWS, Azure)
-- Machine learning foundations
-
-## 🛠️ Featured Projects
-
-- `forest-math`: A math learning app inspired by my self-study journey
-- `devops-lab`: CI/CD pipelines and container orchestration demos
-- `darfur-data-visualizer`: Visualizing public datasets from Sudan
-- `algorithms-from-scratch`: My own implementations of classic algorithms
 
 ## 📢 Let's Connect
 
