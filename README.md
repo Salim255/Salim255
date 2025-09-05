@@ -15,7 +15,7 @@ I’m a Software Engineer focused on turning abstract ideas into secure, scalabl
 
 
 ## My Focus
-Delivering software that is secure, scalable, and maintainable — balancing technical excellence with user experience. I prioritize testing, performance, and clean architecture so every project is built to evolve and endure.
+Delivering software that is secure, scalable, and maintainable; balancing technical excellence with user experience. I prioritize testing, performance, and clean architecture so every project is built to evolve and endure.
 
 - 💼 [LinkedIn][(https://www.linkedin.com/in/slim-hassan/)]
 - 🌐 [Portfolio Website](https://salimhassan.com)
