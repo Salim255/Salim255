@@ -6,13 +6,16 @@ I'm a Software Engineer with a passion for solving real-world problems through c
 
 ## 💼 What I Do
 
-- 🔧 **DevOps**: CI/CD pipelines, Docker, Kubernetes, GitHub Actions
-- 🌐 **Web Development**: HTML, CSS, JavaScript, React
-- 🧠 **Backend Engineering**: Python, Node.js, Express
-- 📊 **Data & Logic**: SQL, algorithms, mathematical modeling
+- **Frontend Engineering:** Angular, React, React Native, Ionic, Advanced CSS & Sass.
+- **Backend Development:** Node.js, Express.js, NestJS, RESTful APIs, authentication & authorization (JWT, secure cookies), MVC architecture, file handling, and
+- **Databases:** PostgreSQL, MongoDB.
+- **DevOps & Delivery:** CI/CD pipelines, Docker, Kubernetes, GitHub Actions, Jenkins, automated testing, monitoring.
+- **UX & Product Design:** User‑Centered Design, accessibility, navigation design.
+- **Project Leadership:** Vision & mission articulation, milestone mapping, functional specifications, Agile collaboration, and end‑to‑end delivery.
 
 
-## 📢 Let's Connect
+## M focus
+Delivering software that is secure, scalable, and maintainable — balancing technical excellence with user experience. I prioritize testing, performance, and clean architecture so every project is built to evolve and endure.
 
 - 💼 [LinkedIn][(https://www.linkedin.com/in/slim-hassan/)]
 - 🌐 [Portfolio Website](https://salimhassan.com)
