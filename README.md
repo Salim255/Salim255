@@ -7,7 +7,7 @@ I’m a Software Engineer focused on turning abstract ideas into secure, scalabl
 ## 💼 What I Do
 
 - **Frontend Engineering:** Angular, React, React Native, Ionic, Advanced CSS & Sass.
-- **Backend Development:** Node.js, Express.js, NestJS, RESTful APIs, authentication & authorization (JWT, secure cookies), MVC architecture, file handling, and
+- **Backend Development:** Node.js, Express.js, NestJS, RESTful APIs.
 - **Databases:** PostgreSQL, MongoDB.
 - **DevOps & Delivery:** CI/CD pipelines, Docker, Kubernetes, GitHub Actions, Jenkins, automated testing, monitoring.
 - **UX & Product Design:** User‑Centered Design, accessibility, navigation design.
