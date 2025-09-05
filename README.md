@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Salim Hassan
+Hi, I'am Hassan
 ====================================================================================================================================
 
 
-I'm a Software Engineer with a passion for solving real-world problems through code.
+I’m a Software Engineer focused on turning abstract ideas into secure, scalable, and production‑ready software solutions. From backend systems to cross‑platform interfaces, I design and build clean, maintainable architectures with clarity, care, and long‑term reliability in mind. I build for what lasts.
 
 ## 💼 What I Do
 
@@ -14,7 +14,7 @@ I'm a Software Engineer with a passion for solving real-world problems through c
 - **Project Leadership:** Vision & mission articulation, milestone mapping, functional specifications, Agile collaboration, and end‑to‑end delivery.
 
 
-## M focus
+## My Focus
 Delivering software that is secure, scalable, and maintainable — balancing technical excellence with user experience. I prioritize testing, performance, and clean architecture so every project is built to evolve and endure.
 
 - 💼 [LinkedIn][(https://www.linkedin.com/in/slim-hassan/)]
