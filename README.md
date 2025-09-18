@@ -45,13 +45,14 @@ Every line of code aims at clarity and lasting value.
 
 ---
 
-## Featured projects
+## 📦 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Datting APP ](https://github.com/Salim255/Connectify) | Scalable matching with dynamic partner profile resolution | NestJS, PostgreSQL, Socket.io, Angular20, Ionic |
-| [Portfolio](https://github.com/Salim255/my-portfolio) | Personal site showcasing work and writing | Angular, sass |
-| [Modern Store](https://github.com/Salim255/store-1) | Reusable CI/CD and container templates | Docker, GitHub Actions | Angular, MongoDB, Nestjs, Stripe
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [Connectify – Dating App](https://github.com/Salim255/Connectify) | Real-time matching platform with dynamic partner profile resolution and socket-based communication | NestJS, PostgreSQL, Socket.io, Angular 20, Ionic |
+| [My Portfolio](https://github.com/Salim255/my-portfolio) | Personal site showcasing your work, writing, and journey | Angular, Sass |
+| [Modern Store](https://github.com/Salim255/store-1) | E-commerce platform with integrated payments and reusable CI/CD pipelines | Angular, MongoDB, NestJS, Stripe, Docker, GitHub Actions |
+
 
 ---
 
