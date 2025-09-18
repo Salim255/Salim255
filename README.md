@@ -55,7 +55,7 @@ Every line of code aims at clarity and lasting value.
 
 ---
 
-## 🧠 Skills & tools
+## Skills & tools
 
 > _“Code is more than syntax — it’s a tool for change.”_
 
