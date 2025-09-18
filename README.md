@@ -1,19 +1,19 @@
 <h1 align="center">Salim Hassan</h1>
 <p align="center">
   <i>Resilient Full-Stack Engineer • Scalable Architect • DevOps Craftsman</i><br>
-  <b>From Darfur to Lille—building secure, elegant solutions that matter.</b>
+  <b>Building secure, elegant solutions that matter.</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Salim255?tab=repositories">🧠 Projects</a> •
-  <a href="https://www.linkedin.com/in/salim-h/">💼 LinkedIn</a> •
-  <a href="https://salimhassan.com">🌐 Portfolio</a> •
-  <a href="mailto:salim.hassan.dev@example.com">📬 Contact</a>
+  <a href="https://github.com/Salim255?tab=repositories"> Projects</a> •
+  <a href="https://www.linkedin.com/in/salim-h/">LinkedIn</a> •
+  <a href="https://salimhassan.com">Portfolio</a> •
+  <a href="mailto:salim.hassan.dev@example.com">Contact</a>
 </p>
 
 ---
 
-## 👋 About me
+## About me
 
 - **Focus:** Turning abstract ideas into secure, scalable, production‑ready software.  
 - **Tech stack:** Node.js, NestJS, React, PostgreSQL, MongoDB, Docker.  
@@ -23,7 +23,7 @@
 
 ---
 
-## 💼 What I do
+## What I do
 
 - **Frontend engineering:** Angular, React, React Native, Ionic, Advanced CSS & Sass.  
 - **Backend development:** Node.js, Express.js, NestJS, RESTful APIs.  
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧠 Engineering philosophy
+## Engineering philosophy
 
 - **Secure by design:** Threat‑aware patterns, least privilege, robust validation.  
 - **Performance first:** Raw SQL when it counts, clean data models, observability.  
@@ -45,7 +45,7 @@ Every line of code aims at clarity and lasting value.
 
 ---
 
-## 📦 Featured projects
+## Featured projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -61,7 +61,7 @@ Every line of code aims at clarity and lasting value.
 
 I build with clarity, scale, and performance in mind. My toolkit spans languages, frameworks, platforms, and design systems—chosen for purpose, not trend.
 
-### 🧱 Languages & programming
+### Languages & programming
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -72,7 +72,7 @@ I build with clarity, scale, and performance in mind. My toolkit spans languages
   <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="R" /></a>
 </p>
 
-### 🧩 Frontend & UI
+### Frontend & UI
 <p align="left">
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
@@ -84,21 +84,21 @@ I build with clarity, scale, and performance in mind. My toolkit spans languages
   <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 </p>
 
-### 🛠️ Backend & APIs
+### Backend & APIs
 <p align="left">
   <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
   <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 </p>
 
-### 🗄️ Databases & storage
+### Databases & storage
 <p align="left">
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
-### ⚙️ DevOps & cloud
+### DevOps & cloud
 <p align="left">
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
@@ -107,7 +107,7 @@ I build with clarity, scale, and performance in mind. My toolkit spans languages
   <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-### 🎨 Design & tools
+### Design & tools
 <p align="left">
   <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.adobe.com/uk/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
@@ -118,7 +118,7 @@ I build with clarity, scale, and performance in mind. My toolkit spans languages
 
 ---
 
-## 🔗 Socials
+## Socials
 
 <p align="left">
   <a href="https://www.github.com/Salim255" target="_blank" rel="noreferrer">
@@ -144,7 +144,7 @@ I build with clarity, scale, and performance in mind. My toolkit spans languages
 
 ---
 
-## 🚀 GitHub stats & activity
+## GitHub stats & activity
 
 <p align="center">
   <a href="https://github.com/Salim255">
