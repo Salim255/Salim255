@@ -49,9 +49,9 @@ Every line of code aims at clarity and lasting value.
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Match API](https://github.com/Salim255/match-api) | Scalable matching with dynamic partner profile resolution | NestJS, PostgreSQL |
-| [Portfolio](https://github.com/Salim255/portfolio) | Personal site showcasing work and writing | React, Tailwind |
-| [DevOps Toolkit](https://github.com/Salim255/devops-toolkit) | Reusable CI/CD and container templates | Docker, GitHub Actions |
+| [Datting APP ](https://github.com/Salim255/Connectify) | Scalable matching with dynamic partner profile resolution | NestJS, PostgreSQL, Socket.io, Angular20, Ionic |
+| [Portfolio](https://github.com/Salim255/my-portfolio) | Personal site showcasing work and writing | Angular, sass |
+| [Modern Store](https://github.com/Salim255/store-1) | Reusable CI/CD and container templates | Docker, GitHub Actions | Angular, MongoDB, Nestjs, Stripe
 
 ---
 
