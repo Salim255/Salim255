@@ -55,6 +55,10 @@ Delivering software that is secure, scalable, and maintainable; balancing techni
 
 ### Badges
 
+![Profile Views](https://komarev.com/ghpvc/?username=Salim255&style=flat-square&color=0891b2)
+![Last Commit](https://img.shields.io/github/last-commit/Salim255/Salim255?style=flat-square&color=0891b2)
+![License](https://img.shields.io/github/license/Salim255/Salim255?style=flat-square&color=0891b2)
+
 ## GitHub Stats & Activity
 
 <p align="center">
