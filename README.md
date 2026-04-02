@@ -28,13 +28,6 @@
 - **DevOps & delivery:** CI/CD, Docker, Kubernetes, GitHub Actions, Jenkins, testing, monitoring.   
 ---
   
-## 📦 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Connectify – Dating App](https://github.com/Salim255/Connectify) | Real-time matching platform with dynamic partner profile resolution and socket-based communication | NestJS, PostgreSQL, Socket.io, Angular 20, Ionic |
-| [Modern Store](https://github.com/Salim255/store-1) | E-commerce platform with integrated payments and reusable CI/CD pipelines | Angular, MongoDB, NestJS, Stripe, Docker, GitHub Actions |
-
 ## Socials
 
 <p align="left">
