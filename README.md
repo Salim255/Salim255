@@ -33,7 +33,6 @@
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [Connectify – Dating App](https://github.com/Salim255/Connectify) | Real-time matching platform with dynamic partner profile resolution and socket-based communication | NestJS, PostgreSQL, Socket.io, Angular 20, Ionic |
-| [My Portfolio](https://github.com/Salim255/my-portfolio) | Personal site showcasing your work, writing, and journey | Angular, Sass |
 | [Modern Store](https://github.com/Salim255/store-1) | E-commerce platform with integrated payments and reusable CI/CD pipelines | Angular, MongoDB, NestJS, Stripe, Docker, GitHub Actions |
 
 ## Socials
