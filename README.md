@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/Salim255?tab=repositories"> Projects</a> •
   <a href="https://www.linkedin.com/in/salim-h/">LinkedIn</a> •
-  <a href="https://salimcode.com">Portfolio</a> •
+  <a href="https://salimcode.site">Portfolio</a> •
   <a href="mailto:salim.hassan.dev@example.com">Contact</a>
 </p>
 
