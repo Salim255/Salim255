@@ -1,7 +1,6 @@
 <h1 align="center">Salim Hassan</h1>
 <p align="center">
-  <i>Resilient Full-Stack Engineer • Scalable Architect • DevOps Craftsman</i><br>
-  <b>Building secure, elegant solutions that matter.</b>
+  <i> Full-Stack Engineer • Scalable Architect • DevOps Craftsman</i><br>
 </p>
 
 <p align="center">
@@ -16,8 +15,7 @@
 ## About me
 
 - **Focus:** Turning abstract ideas into secure, scalable, production‑ready software.   
-- **Values:** Clarity, performance, authenticity, long‑term impact.  
-
+ 
 ---
 
 ## What I do
