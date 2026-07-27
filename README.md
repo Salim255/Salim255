@@ -68,15 +68,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&lay
 
 ---
 
-# Development Consistency
+# Contribution History
 
-<div align="center">
+
+<p align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&theme=github-dark-blue"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salim255&theme=github_dark"
 />
 
-</div>
+</p>
 
 
 
