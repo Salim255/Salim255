@@ -84,18 +84,13 @@
 
 ## GitHub stats & activity
 
-<p align="center">
-  <a href="https://github.com/Salim255">
-    <img src="https://github-readme-stats.vercel.app/api?username=Salim255&count_private=true&show_icons=true&theme=dark&title_color=0891b2&icon_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Salim's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Salim255">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&theme=dark&hide_border=true&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/Salim255">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&langs_count=10&layout=compact&theme=dark&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+## 📊 GitHub Activity
 
+![Profile Views](https://komarev.com/ghpvc/?username=Salim255&style=for-the-badge&color=111827)
+
+![Followers](https://img.shields.io/github/followers/Salim255?style=for-the-badge&color=2563eb)
+
+![Repositories](https://img.shields.io/badge/Repositories-Engineering%20Projects-10b981?style=for-the-badge)
 ---
 
 <p align="center">
