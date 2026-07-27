@@ -3,68 +3,62 @@
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer • DevOps-Oriented</strong>
+  <strong>Full-Stack Engineer · DevOps-Oriented</strong>
 </p>
 
 <p align="center">
-  Building scalable applications with modern frontend, backend and cloud technologies.
+  Building scalable software systems, from product interfaces to cloud infrastructure.
 </p>
 
+
 <p align="center">
-  <a href="https://github.com/Salim255">GitHub</a>
-  •
-  <a href="https://www.linkedin.com/in/salim-h/">LinkedIn</a>
-  •
-  <a href="https://salimcode.site">Portfolio</a>
+  GitHub · LinkedIn · Portfolio
 </p>
 
 ---
 
-## 👨‍💻 Identity
+# Engineering Activity
 
-I design and develop production-ready software, from user interfaces to backend systems and cloud infrastructure.
+<p align="center">
 
-Focused on:
+<img src="https://github-readme-stats.vercel.app/api?username=Salim255&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent"/>
 
-- Full-stack application architecture
-- Scalable backend services
-- Cloud-native deployment
-- Developer experience and automation
+</p>
+
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salim255&theme=github"/>
+
+</p>
+
 
 ---
 
-# 📊 Engineering Activity
+# Contribution Rhythm
 
 <p align="center">
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Salim255&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-/>
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&layout=compact&hide_border=true&theme=transparent"
-/>
+<img src="https://ghchart.rshah.org/2563eb/Salim255"/>
 
 </p>
 
 
-## Contribution Journey
+---
+
+# Developer Metrics
 
 <p align="center">
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Salim255&theme=github-compact&hide_border=true"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salim255&theme=github"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salim255&theme=github"/>
 
 </p>
 
 
-## Consistency
-
 <p align="center">
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&theme=transparent"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&theme=transparent"/>
 
 </p>
