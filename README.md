@@ -48,7 +48,7 @@
 <p align="center">
 
 <img
-src="https://github-readme-stats-github-readme-stats.vercel.app/api/top-langs/?username=Salim255&layout=compact&langs_count=8&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salim255&theme=github_dark"
 />
 
 </p>
