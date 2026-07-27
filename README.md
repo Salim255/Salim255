@@ -38,15 +38,15 @@
 
 <p align="center">
   <img
-    src="https://github-readme-tech-stack.vercel.app/api/cards/languages?username=Salim255&theme=transparent&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&layout=pie&hide_border=true&theme=transparent"
     alt="Languages Pie Chart"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-tech-stack.vercel.app/api/cards/tech-stack?username=Salim255&theme=transparent&hide_border=true"
-    alt="Tech Stack Pie Chart"
+    src="https://github-readme-stats.vercel.app/api?username=Salim255&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
   />
 </p>
 
