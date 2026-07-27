@@ -93,6 +93,16 @@
 ![Repositories](https://img.shields.io/badge/Repositories-Engineering%20Projects-10b981?style=for-the-badge)
 ---
 
+## 📊 Engineering Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Salim255&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+
+</p>
+
 <p align="center">
   <b>Let’s build something meaningful together.</b><br>
   <i>Reach out, collaborate, or just say hello.</i>
