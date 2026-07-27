@@ -45,13 +45,13 @@
 # Development Consistency
 
 
-<p align="center">
+<div align="center">
 
 <img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&theme=github-dark-blue"
 />
 
-</p>
+</div>
 
 ---
 
