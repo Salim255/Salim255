@@ -2,11 +2,13 @@
   Salim Hassan
 </h1>
 
+
 <p align="center">
   <strong>
     Full-Stack Engineer · Product Builder · DevOps-Oriented
   </strong>
 </p>
+
 
 <p align="center">
   Building scalable software products with a focus on architecture,
@@ -16,21 +18,25 @@
 
 <p align="center">
 
-<a href="https://github.com/Salim255">
-GitHub
-</a>
+  <a href="https://github.com/Salim255">
+    GitHub
+  </a>
 
-&nbsp;•&nbsp;
+  <span>
+    ·
+  </span>
 
-<a href="https://www.linkedin.com/in/salim-h/">
-LinkedIn
-</a>
+  <a href="https://www.linkedin.com/in/salim-h/">
+    LinkedIn
+  </a>
 
-&nbsp;•&nbsp;
+  <span>
+    ·
+  </span>
 
-<a href="https://salimcode.site">
-Portfolio
-</a>
+  <a href="https://salimcode.site">
+    Portfolio
+  </a>
 
 </p>
 
@@ -49,6 +55,7 @@ src="https://github-readme-stats.vercel.app/api?username=Salim255&show_icons=tru
 </p>
 
 
+
 <p align="center">
 
 <img
@@ -56,6 +63,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&lay
 />
 
 </p>
+
 
 
 ---
@@ -72,6 +80,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 </p>
 
 
+
 ---
 
 # Development Consistency
@@ -86,28 +95,45 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border
 </p>
 
 
+
 ---
 
 # Repository Insights
 
 
-<p align="center">
+<table align="center">
+
+<tr>
+
+<td>
 
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salim255&theme=github_dark"
 />
 
+</td>
+
+
+<td>
+
 <img
 src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salim255&theme=github_dark"
 />
 
-</p>
+</td>
+
+</tr>
+
+</table>
+
 
 
 ---
 
 <p align="center">
-  <strong>
-    Building reliable software, one commit at a time.
-  </strong>
+
+<strong>
+Building reliable software, one commit at a time.
+</strong>
+
 </p>
