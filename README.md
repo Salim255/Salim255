@@ -59,6 +59,29 @@
 
 ---
 
+## 🏷️ Engineering Profile
+
+![Full Stack Engineer](https://img.shields.io/badge/Full--Stack-Engineer-2563eb?style=for-the-badge)
+
+![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-0ea5e9?style=for-the-badge)
+
+![Cloud Native](https://img.shields.io/badge/Cloud-Native-6366f1?style=for-the-badge)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Angular](https://img.shields.io/badge/Angular-Developer-dd0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![NestJS](https://img.shields.io/badge/NestJS-Backend-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-AI%20%26%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ## GitHub stats & activity
 
 <p align="center">
