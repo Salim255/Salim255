@@ -44,11 +44,18 @@
 
 ## 🏷️ Badges
 
-![Profile Views](https://komarev.com/ghpvc/?username=Salim255&style=flat-square&color=0891b2)
-![GitHub Followers](https://img.shields.io/github/followers/Salim255?style=flat-square&color=0891b2)
-![Last Commit](https://img.shields.io/github/last-commit/Salim255/Salim255?style=flat-square&color=0891b2)
-![License](https://img.shields.io/github/license/Salim255/Salim255?style=flat-square&color=0891b2)
-![Repo Stars](https://img.shields.io/github/stars/Salim255/match-api?style=flat-square&color=0891b2)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Salim255&style=for-the-badge&color=111827)
+
+![Followers](https://img.shields.io/github/followers/Salim255?style=for-the-badge&color=2563eb)
+
+![Activity](https://img.shields.io/github/commit-activity/m/Salim255/Salim255?style=for-the-badge&color=2563eb)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-Engineer-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Projects-10b981?style=for-the-badge)
 
 ---
 
