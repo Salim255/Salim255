@@ -2,17 +2,15 @@
   Salim Hassan
 </h1>
 
-
 <p align="center">
   <strong>
     Full-Stack Engineer · Product Builder · DevOps-Oriented
   </strong>
 </p>
 
-
 <p align="center">
-  Building scalable software products with a focus on clean architecture,
-  reliable systems, and continuous delivery.
+  Building scalable software products with a focus on architecture,
+  reliability, and continuous delivery.
 </p>
 
 
@@ -22,13 +20,13 @@
 GitHub
 </a>
 
-•
+&nbsp;•&nbsp;
 
 <a href="https://www.linkedin.com/in/salim-h/">
 LinkedIn
 </a>
 
-•
+&nbsp;•&nbsp;
 
 <a href="https://salimcode.site">
 Portfolio
@@ -39,13 +37,13 @@ Portfolio
 
 ---
 
-# 📊 Engineering Activity
+# Engineering Activity
 
 
 <p align="center">
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salim255&theme=github"
+src="https://github-readme-stats.vercel.app/api?username=Salim255&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark"
 />
 
 </p>
@@ -54,12 +52,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Salim255&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
-/>
-
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&layout=compact&langs_count=8&include_all_commits=true&hide_border=true&theme=github_dark"
 />
 
 </p>
@@ -67,13 +60,13 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&lay
 
 ---
 
-# 🔥 Development Consistency
+# Contribution History
 
 
 <p align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&theme=transparent"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salim255&theme=github_dark"
 />
 
 </p>
@@ -81,13 +74,31 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border
 
 ---
 
-# 🌱 Contribution Journey
+# Development Consistency
 
 
 <p align="center">
 
 <img
-src="https://ghchart.rshah.org/2563eb/Salim255"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&theme=github-dark-blue"
+/>
+
+</p>
+
+
+---
+
+# Repository Insights
+
+
+<p align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salim255&theme=github_dark"
+/>
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salim255&theme=github_dark"
 />
 
 </p>
@@ -96,9 +107,7 @@ src="https://ghchart.rshah.org/2563eb/Salim255"
 ---
 
 <p align="center">
-
-<strong>
-Building meaningful software, one commit at a time.
-</strong>
-
+  <strong>
+    Building reliable software, one commit at a time.
+  </strong>
 </p>
