@@ -40,13 +40,12 @@
 
 </p>
 
----
 # Development Consistency
 
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&background=0d1117&ring=64eaff&fire=64eaff&currStreakLabel=64eaff&sideLabels=94a3b8"
+src="https://streak-stats.demolab.com/?user=Salim255&hide_border=true&background=0d1117&ring=64eaff&fire=64eaff&currStreakLabel=64eaff&sideLabels=94a3b8"
 />
 
 </div>
