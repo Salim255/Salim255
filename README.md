@@ -47,7 +47,7 @@
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=64748b"
 />
 
 </div>
