@@ -65,7 +65,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border
 <td>
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salim255&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salim255&theme=github-dark-blue"
 />
 
 </td>
@@ -74,7 +74,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 <td>
 
 <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salim255&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Salim255&theme=github-dark-blue"
 />
 
 </td>
