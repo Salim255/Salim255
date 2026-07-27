@@ -48,11 +48,10 @@
 <p align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&layout=compact"
 />
 
 </p>
-
 
 
 <p align="center">
