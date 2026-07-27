@@ -1,10 +1,17 @@
-<h1 align="center">Salim Hassan</h1>
+<h1 align="center">
+  Salim Hassan
+</h1>
+
 <p align="center">
-  <i> Full-Stack Engineer • Scalable Architect • DevOps Craftsman</i><br>
+  <strong>Full-Stack Engineer • DevOps-Oriented • Building Scalable Software</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Salim255?tab=repositories"> Projects</a> •
+  Designing reliable applications with modern frontend, backend and cloud technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Salim255">GitHub</a> •
   <a href="https://www.linkedin.com/in/salim-h/">LinkedIn</a> •
   <a href="https://salimcode.site">Portfolio</a> •
   <a href="mailto:salim.hassan.dev@example.com">Contact</a>
@@ -12,98 +19,61 @@
 
 ---
 
-## About me
+## 👨‍💻 About Me
 
-- **Focus:** Turning abstract ideas into secure, scalable, production‑ready software.   
- 
----
+I am a Full-Stack Engineer focused on building **production-ready applications**, combining software architecture, clean code practices and DevOps automation.
 
-## What I do
-
-- **Frontend engineering:** Angular, React, React Native, Ionic, Advanced CSS & Sass.  
-- **Backend development:** Node.js, Express.js, NestJS, Spring Boot, RESTful APIs.  
-- **Databases:** PostgreSQL, MongoDB.  
-- **DevOps & delivery:** CI/CD, Docker, Kubernetes, GitHub Actions, Jenkins, testing, monitoring.   
----
-  
-## Socials
-
-<p align="left">
-  <a href="https://www.github.com/Salim255" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/salim-h/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://www.x.com/miracle333333" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter (X)" />
-  </a>
-</p>
+My approach is driven by:
+- scalable system design
+- maintainable architectures
+- developer experience
+- reliable deployment workflows
 
 ---
 
-## 🏷️ Badges
+## 🛠️ Engineering Stack
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Salim255&style=for-the-badge&color=111827)
+### Backend
 
-![Followers](https://img.shields.io/github/followers/Salim255?style=for-the-badge&color=2563eb)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-![Activity](https://img.shields.io/github/commit-activity/m/Salim255/Salim255?style=for-the-badge&color=2563eb)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Engineer-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Projects-10b981?style=for-the-badge)
+### Cloud & DevOps
 
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🏷️ Engineering Profile
-
-![Full Stack Engineer](https://img.shields.io/badge/Full--Stack-Engineer-2563eb?style=for-the-badge)
-
-![DevOps Engineer](https://img.shields.io/badge/DevOps-Engineer-0ea5e9?style=for-the-badge)
-
-![Cloud Native](https://img.shields.io/badge/Cloud-Native-6366f1?style=for-the-badge)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Angular](https://img.shields.io/badge/Angular-Developer-dd0031?style=for-the-badge&logo=angular&logoColor=white)
-
-![NestJS](https://img.shields.io/badge/NestJS-Backend-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-AI%20%26%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-
-## GitHub stats & activity
-
-## 📊 GitHub Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=Salim255&style=for-the-badge&color=111827)
-
-![Followers](https://img.shields.io/github/followers/Salim255?style=for-the-badge&color=2563eb)
-
-![Repositories](https://img.shields.io/badge/Repositories-Engineering%20Projects-10b981?style=for-the-badge)
 ---
 
-## 📊 Engineering Activity
+## 🚀 Engineering Focus
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Salim255&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salim255&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-
-</p>
-
-<p align="center">
-  <b>Let’s build something meaningful together.</b><br>
-  <i>Reach out, collaborate, or just say hello.</i>
-</p>
+```text
+Full-Stack Development
+        +
+Software Architecture
+        +
+Cloud Infrastructure
+        +
+CI/CD Automation
+        +
+Production Reliability
