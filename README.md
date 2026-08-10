@@ -47,9 +47,7 @@
 
 <div align="center">
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&theme=github-dark-blue"
-/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&theme=github-dark-blue&v=2)
 
 </div>
 
