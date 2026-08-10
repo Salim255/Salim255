@@ -47,6 +47,7 @@
 
 <div align="center">
 
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Salim255&theme=github-dark&hide_border=true)
 
 </div>
