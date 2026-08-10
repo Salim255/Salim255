@@ -46,10 +46,9 @@
 
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Salim255&theme=github-dark&hide_border=true&area=true" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ---
 
