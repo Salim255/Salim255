@@ -48,9 +48,7 @@
 <div align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&theme=github-dark&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
