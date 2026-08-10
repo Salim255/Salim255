@@ -47,7 +47,8 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salim255&hide_border=true&theme=github-dark-blue&v=2)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Salim255&theme=github-dark&hide_border=true)
 
 </div>
 
