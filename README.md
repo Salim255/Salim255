@@ -46,8 +46,9 @@
 
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salim255&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Salim255&theme=blueberry&hide_border=true" />
 </div>
+
 
 
 ---
